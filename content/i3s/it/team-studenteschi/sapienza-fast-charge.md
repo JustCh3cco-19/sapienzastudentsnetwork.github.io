@@ -43,7 +43,7 @@ L'area lavora per garantire che la vettura sia leggera, affidabile, efficiente e
 
 ### Battery, Electronics e Powertrain (BEP)
 
-L'area **Batteria, Elettronica e Powertrain** è il cuore tecnologico della vettura.
+L'area **Battery, Electronics e Powertrain** è il cuore tecnologico della vettura.
 
 È responsabile dei sistemi sia **ad alta tensione** sia **a bassa tensione**, assicurando che l'architettura elettrica del veicolo funzioni in modo sicuro, efficiente e affidabile.
 
@@ -76,7 +76,7 @@ L'intera pipeline di guida autonoma segue questa struttura:
 
 #### Pipeline di guida autonoma
 
-**Percezione → Localizzazione → Mappatura → Pianificazione → Controllo**
+**Perception → Localization → Mapping → Planning → Control**
 
 La telemetria e la diagnostica in tempo reale vengono utilizzate in tutto il sistema per monitorare prestazioni, affidabilità e sicurezza durante i test e le competizioni.
 
